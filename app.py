@@ -5,7 +5,7 @@ from PIL import Image
 
 # --- Azure Custom Vision config ---
 PREDICTION_KEY = "3r9SHrVjdXE5YlJop3bliQQvO0DUuO3pt3l1yVLBz5cBWCpz6XAKJQQJ99BEACYeBjFXJ3w3AAAIACOGUw5x"
-PREDICTION_URL = "https://djhansirani-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/c652e6a6-e589-45a3-a8b9-b68739d9fd72/classify/iterations/dance-classifier-v1/image"
+PREDICTION_URL = "https://djhansirani-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/c652e6a6-e589-45a3-a8b9-b68739d9fd72/classify/iterations/Iteration1/image"
 
 # Define headers and endpoint
 headers = {
