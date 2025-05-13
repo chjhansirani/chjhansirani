@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chjhansirani
-- 👀 I’m interested in AI and Data Engineeign
+- 👀 I’m interested in AI and Data Engineeing
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ...
